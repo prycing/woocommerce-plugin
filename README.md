@@ -1,4 +1,4 @@
-# Prycing
+# Prycing WooCommerce Plugin
 
 ![License](https://img.shields.io/github/license/prycing/woocommerce-plugin)
 ![WP Compatible](https://img.shields.io/badge/WordPress-5.0%2B-blue)
